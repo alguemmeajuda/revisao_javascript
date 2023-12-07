@@ -1,4 +1,4 @@
-function fatorial(num){
+function fatorial(){
    var n=10;
    var fatorial;
 
