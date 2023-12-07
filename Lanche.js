@@ -5,5 +5,5 @@ function multiplicacao(){
 
     Multiplicacao=a*n;
 
-    alert("Multiplicacao");
+    alert(Multiplicacao);
 }
