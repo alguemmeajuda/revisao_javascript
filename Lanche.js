@@ -1,9 +1,9 @@
 function multiplicacao(){
-    var a=4;
-    var n=3;
+    var preco=4;
+    var quantidade=3;
     var Multiplicacao;
 
-    Multiplicacao=a*n;
+    Multiplicacao=preco*quantidade;
 
     alert(Multiplicacao);
 }
