@@ -1,10 +1,8 @@
 function fatorial(num){
-   var n=10
-   var fatorial
+   var n=10;
+   var fatorial;
 
-   fatorial=10*9*8*7*6*5*4*3*2*1
-
-    
+   fatorial=n*(n-1)*(n-2)*(n-3)*(n-4)*(n-5)*(n-6)*(n-7)*(n-8)*(n-9);
    
-    alert("3.628.800")
+    alert(fatorial);
 }
